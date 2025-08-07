@@ -1,9 +1,18 @@
 from ultralytics import YOLO
 import cv2
 import os
+import time
+from datetime import datetime
+import json
 
 # Caminho correto para o modelo treinado
-model = YOLO(r"c:\Users\Admin\Documents\GitHub\trabalhoFacul\runs\detect\train\weights\best.pt")
+try:
+    model = YOLO(r"c:\Users\Admin\Documents\GitHub\trabalhoFacul\runs\detect\train\weights\best.pt")
+    print("✅ Modelo carregado com sucesso!")
+except Exception as e:
+    print(f"❌ Erro ao carregar modelo: {e}")
+    print("🔧 Verifique se o arquivo 'best.pt' existe em 'runs/detect/train/weights/'")
+    exit(1)
 
 # Dicionário com as mensagens para cada classe
 mensagens_mascara = {
