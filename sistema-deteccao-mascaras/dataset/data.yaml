@@ -1,0 +1,24 @@
+<!-- filepath: c:\Users\Admin\Documents\GitHub\trabalhoFacul\CONTRIBUICAO.md -->
+<div align="center">
+
+# 🤝 Contribuição para o Sistema Inteligente de Detecção de Máscaras
+
+**Agradecemos seu interesse em contribuir para o nosso projeto!** Este documento fornece diretrizes sobre como você pode ajudar a melhorar o sistema.
+
+---
+
+## 🌟 Como Contribuir
+
+### 🛠️ Tipos de Contribuição
+
+| 🎯 **Área** | 📝 **Exemplos** | 🔧 **Dificuldade** |
+|------------|----------------|-------------------|
+| **🐛 Bug Reports** | Reportar erros, problemas de performance | 🟢 Iniciante |
+| **📚 Documentação** | Melhorar README, adicionar tutoriais | 🟢 Iniciante |
+| **✨ Features** | Novas funcionalidades, melhorias de UI | 🟡 Intermediário |
+| **⚡ Performance** | Otimizações, refatoração de código | 🟡 Intermediário |
+| **🧠 ML/AI** | Melhorias no modelo, novos algoritmos | 🔴 Avançado |
+
+### 📋 Processo de Contribuição
+
+1. **Fork do repositório**

@@ -1,0 +1,78 @@
+<!-- filepath: c:\Users\Admin\Documents\GitHub\trabalhoFacul\NOVA_PAGINA.md -->
+<div align="center">
+
+# 📜 Nova Página - Sistema Inteligente de Detecção de Máscaras
+
+### *Informações Adicionais e Recursos*
+
+---
+
+## 📖 Introdução
+
+Esta página fornece informações adicionais sobre o **Sistema Inteligente de Detecção de Máscaras**, incluindo detalhes técnicos, recursos avançados e sugestões de uso.
+
+---
+
+## 🔍 Detalhes Técnicos
+
+### 📊 Arquitetura do Sistema
+
+O sistema é baseado na arquitetura YOLOv8, que permite a detecção em tempo real com alta precisão. Abaixo estão os componentes principais:
+
+- **Modelo YOLOv8**: Utiliza redes neurais convolucionais para detecção de objetos.
+- **OpenCV**: Biblioteca para processamento de imagem e vídeo.
+- **Deep Learning**: Implementação de técnicas de aprendizado profundo para melhorar a precisão.
+
+### ⚙️ Requisitos do Sistema
+
+- **Sistema Operacional**: Windows, Linux ou MacOS
+- **Python**: Versão 3.8 ou superior
+- **GPU**: Recomendado para melhor desempenho (CUDA compatível)
+
+---
+
+## 🚀 Recursos Avançados
+
+### 📈 Análise de Dados
+
+O sistema gera relatórios detalhados sobre a conformidade do uso de máscaras, permitindo análises estatísticas e insights sobre o comportamento dos usuários.
+
+### 🎨 Personalização
+
+Os usuários podem ajustar os parâmetros do modelo para se adequar a diferentes ambientes e condições de iluminação, melhorando a eficácia do sistema.
+
+---
+
+## 🎯 Casos de Uso
+
+### 🏫 Monitoramento em Escolas
+
+Implementação do sistema em escolas para garantir que os alunos estejam usando máscaras corretamente durante a pandemia.
+
+### 🏢 Eventos Públicos
+
+Utilização do sistema em eventos públicos para monitorar o uso de máscaras e garantir a segurança dos participantes.
+
+---
+
+## 🤝 Contribuições
+
+Se você deseja contribuir para o projeto, siga as diretrizes de contribuição descritas na seção de Contribuição do README.md. Todas as sugestões e melhorias são bem-vindas!
+
+---
+
+## 📞 Contato
+
+Para mais informações ou suporte, entre em contato com o desenvolvedor principal:
+
+- **Nome**: fehnox
+- **Email**: [seu-email@example.com](mailto:seu-email@example.com)
+- **GitHub**: [fehnox](https://github.com/fehnox)
+
+---
+
+<div align="center">
+
+### 🎭 **Obrigado por seu interesse no Sistema Inteligente de Detecção de Máscaras!**
+
+</div>

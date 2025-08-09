@@ -1,0 +1,36 @@
+<!-- filepath: c:\Users\Admin\Documents\GitHub\trabalhoFacul\NOVA_PAGINA.md -->
+<div align="center">
+
+# 📊 Análise de Dados e Relatórios
+
+### *Insights e Estatísticas do Sistema de Detecção de Máscaras*
+
+---
+
+## 📈 Introdução
+
+Nesta seção, apresentamos uma análise detalhada dos dados coletados pelo Sistema Inteligente de Detecção de Máscaras. O objetivo é fornecer insights sobre a eficácia do sistema, padrões de uso de máscaras e recomendações baseadas em dados.
+
+---
+
+## 📋 Coleta de Dados
+
+O sistema coleta dados em tempo real durante a detecção de máscaras. As informações incluem:
+
+- **Número total de pessoas detectadas**
+- **Status de uso de máscara (correta, incorreta, sem máscara)**
+- **Taxa de conformidade em diferentes ambientes**
+
+---
+
+## 📊 Relatórios Gerados
+
+### 1. Relatório Diário
+
+Um relatório diário é gerado automaticamente, contendo:
+
+- Total de pessoas monitoradas
+- Percentual de conformidade
+- Gráficos de tendência ao longo do tempo
+
+**Exemplo de Relatório Diário:**

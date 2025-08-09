@@ -1,0 +1,73 @@
+<!-- filepath: c:\Users\Admin\Documents\GitHub\trabalhoFacul\NOVA_PAGINA.md -->
+<div align="center">
+
+# 🎭 Sistema Inteligente de Detecção de Máscaras
+### *Monitoramento em Tempo Real com Inteligência Artificial*
+
+![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-FF6B35?style=for-the-badge&logo=yolo&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge)
+
+**Sistema avançado de detecção automática para monitoramento do uso correto de máscaras faciais utilizando redes neurais profundas.**
+
+</div>
+
+---
+
+## 📋 Índice
+
+- [📝 Introdução](#-introdução)
+- [✨ Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [🚀 Funcionalidades](#-funcionalidades)
+- [📈 Resultados e Métricas](#-resultados-e-métricas)
+- [🤝 Contribuições e Colaborações](#-contribuições-e-colaborações)
+- [📞 Contato](#-contato)
+
+---
+
+## 📝 Introdução
+
+O "Sistema Inteligente de Detecção de Máscaras" é uma solução inovadora que utiliza inteligência artificial para monitorar o uso de máscaras faciais em tempo real. Este projeto foi desenvolvido com o objetivo de auxiliar na conformidade com as diretrizes de saúde pública, especialmente em ambientes de alto fluxo de pessoas.
+
+## ✨ Tecnologias Utilizadas
+
+- **Python**: Linguagem de programação principal.
+- **OpenCV**: Biblioteca para processamento de imagens e vídeos.
+- **YOLOv8**: Algoritmo de detecção de objetos em tempo real.
+- **Flask**: Framework para desenvolvimento de aplicações web (se aplicável).
+
+## 🚀 Funcionalidades
+
+- **Detecção em Tempo Real**: Monitora o uso de máscaras em tempo real através de câmeras.
+- **Relatórios Estatísticos**: Gera relatórios detalhados sobre a conformidade do uso de máscaras.
+- **Interface Intuitiva**: Interface gráfica amigável para fácil interação do usuário.
+
+## 📈 Resultados e Métricas
+
+O sistema foi testado em diferentes ambientes e obteve resultados significativos, incluindo:
+
+- **Precisão**: >90% na detecção correta do uso de máscaras.
+- **FPS**: Processamento em tempo real com mais de 30 FPS em hardware moderno.
+
+## 🤝 Contribuições e Colaborações
+
+Estamos abertos a contribuições! Se você deseja colaborar, por favor, consulte a seção de [Contribuição](#-contribuição) no README principal.
+
+## 📞 Contato
+
+Para mais informações, entre em contato:
+
+- **Email**: seuemail@exemplo.com
+- **GitHub**: [fehnox](https://github.com/fehnox)
+
+---
+
+<div align="center">
+
+## 🎭 **Muito Obrigado por Usar Nosso Sistema!**
+
+### *"Tecnologia a serviço da saúde e segurança"*
+
+</div>

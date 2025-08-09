@@ -1,0 +1,36 @@
+<!-- filepath: c:\Users\Admin\Documents\GitHub\trabalhoFacul\DOCUMENTACAO.md -->
+<div align="center">
+
+# 📖 Documentação do Sistema Inteligente de Detecção de Máscaras
+### *Monitoramento em Tempo Real com Inteligência Artificial*
+
+![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-FF6B35?style=for-the-badge&logo=yolo&logoColor=white)
+
+**Esta documentação fornece uma visão detalhada sobre a implementação, configuração e uso do Sistema Inteligente de Detecção de Máscaras.**
+
+</div>
+
+---
+
+## 📋 Índice
+
+- [📝 Introdução](#-introdução)
+- [✨ Estrutura do Projeto](#-estrutura-do-projeto)
+- [🚀 Como Usar](#-como-usar)
+- [🛠️ Configuração do Ambiente](#-configuração-do-ambiente)
+- [🎯 Funcionalidades Detalhadas](#-funcionalidades-detalhadas)
+- [📊 Relatórios e Análises](#-relatórios-e-análises)
+- [🤝 Contribuição](#-contribuição)
+- [📞 Contato e Suporte](#-contato-e-suporte)
+
+---
+
+## 📝 Introdução
+
+O Sistema Inteligente de Detecção de Máscaras foi desenvolvido para monitorar o uso de máscaras faciais em tempo real, utilizando técnicas avançadas de inteligência artificial e visão computacional. O sistema é capaz de identificar se uma pessoa está usando a máscara corretamente, de forma incorreta ou se não está usando máscara.
+
+## ✨ Estrutura do Projeto
+
+A estrutura do projeto é organizada da seguinte forma:

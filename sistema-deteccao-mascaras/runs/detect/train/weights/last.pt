@@ -1,0 +1,38 @@
+<!-- filepath: c:\Users\Admin\Documents\GitHub\trabalhoFacul\NOVA_PAGINA.md -->
+<div align="center">
+
+# 📊 Análise de Dados e Relatórios
+
+### *Insights e Estatísticas do Sistema de Detecção de Máscaras*
+
+---
+
+## 📈 Introdução
+
+Nesta seção, apresentamos uma análise detalhada dos dados coletados pelo Sistema Inteligente de Detecção de Máscaras. O objetivo é fornecer insights sobre a eficácia do sistema, padrões de uso de máscaras e recomendações para melhorias.
+
+---
+
+## 📊 Coleta de Dados
+
+O sistema coleta dados em tempo real sobre o uso de máscaras, incluindo:
+
+- Total de pessoas detectadas
+- Número de pessoas usando máscara corretamente
+- Número de pessoas com máscara incorreta
+- Número de pessoas sem máscara
+
+### Exemplo de Dados Coletados
+
+| Data       | Total de Pessoas | Com Máscara | Máscara Incorreta | Sem Máscara |
+|------------|------------------|-------------|-------------------|-------------|
+| 2025-08-09 | 150              | 90          | 40                | 20          |
+| 2025-08-10 | 200              | 150         | 30                | 20          |
+
+---
+
+## 📊 Análise Estatística
+
+### Taxa de Conformidade
+
+A taxa de conformidade é calculada como a porcentagem de pessoas que estão usando a máscara corretamente em relação ao total de pessoas detectadas.
